@@ -1,1 +1,1 @@
-# Projects
+# ASCII Hangman game
